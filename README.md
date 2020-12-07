@@ -176,8 +176,8 @@ if(doctor01.earn - doctor01.cost > 0 && doctor01.earn - doctor01.cost <= 5000) {
 ##
 系统运行截图
 
-![result](https://github.com/sTormfroNT-TNT/ShiYan4-JieKou/blob/main/Img/1.png)
-![result](https://github.com/sTormfroNT-TNT/ShiYan4-JieKou/blob/main/Img/2.png)
+![result](https://github.com/sTormfroNT-TNT/ShiYan5-WenJian/blob/main/image/1.png)
+![result](https://github.com/sTormfroNT-TNT/ShiYan5-WenJian/blob/main/image/2.png)
 
 ##
 编程感想
